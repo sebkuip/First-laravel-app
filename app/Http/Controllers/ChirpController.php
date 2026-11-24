@@ -3,7 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use app\Models\Chirp;
+
+use App\Models\Chirp;
 
 class ChirpController extends Controller
 {
